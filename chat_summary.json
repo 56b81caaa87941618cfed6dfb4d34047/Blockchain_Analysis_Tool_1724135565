@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain data feed display\", \"checked\": false}, {\"feature\": \"Interactive blockchain charts and analytics tools\", \"checked\": false}, {\"feature\": \"Option to customize and save blockchain data queries\", \"checked\": false}, {\"feature\": \"Notifications for blockchain event triggers\", \"checked\": false}, {\"feature\": \"User authentication system for saved queries and preferences\", \"checked\": true}, {\"feature\": \"Dark mode and light mode display options\", \"checked\": true}], \"input_token_count\": 227, \"output_token_count\": 113, \"time_taken\": \"0:00:03.259602\"}",
         "timestamp": "20082024063315",
         "message_id": "guest20082024063310"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Submit' button to be positioned on the screen?\", \"option1\": \"At the bottom of the screen\", \"option2\": \"Next to the form fields\"}, {\"question 2\": \"What action should occur when the 'Submit' button is pressed?\", \"option1\": \"Data is sent to a server and a confirmation message is displayed\", \"option2\": \"Data is saved locally on the device for later submission\"}], \"input_token_count\": 273, \"output_token_count\": 106, \"time_taken\": \"0:00:04.765767\"}",
+        "timestamp": "20082024063316",
+        "message_id": "guest20082024063310"
     }
 ]
